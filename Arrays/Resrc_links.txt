@@ -1,0 +1,8 @@
+GFG
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+https://www.youtube.com/watch?v=eOdNhPwOInc
+Vectors
+https://www.geeksforgeeks.org/vector-in-cpp-stl/
+
+Tutorials point
+https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm 
