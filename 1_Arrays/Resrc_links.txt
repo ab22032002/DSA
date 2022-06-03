@@ -1,0 +1,20 @@
+GFG
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+https://www.youtube.com/watch?v=eOdNhPwOInc
+Vectors
+https://www.geeksforgeeks.org/vector-in-cpp-stl/
+
+Tutorials point
+https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm 
+(IMP)
+Topics Covered:
+Passing pointers but arrays 
+Pointers to the array 
+Functions accessing the array 
+
+QUestions
+
+https://onedrive.live.com/?authkey=%21AAS2BR1TOHr1vyA&cid=842AECBB531CCEA4&id=842AECBB531CCEA4%218808&parId=842AECBB531CCEA4%218803&o=OneUp
+
+intermediate-
+https://onedrive.live.com/?authkey=%21AE%5F1ta0M0JJiGDI&cid=842AECBB531CCEA4&id=842AECBB531CCEA4%218809&parId=842AECBB531CCEA4%218803&o=OneUp
