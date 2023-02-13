@@ -8,8 +8,9 @@ void print_vector(vector<int> &vect)
 vector<int> roots(int a,int b,int c)
 {
     vector<int> vtr;
-    int x,y,k;
-    k=b*b-4*a*c;
+    double x,y,k,j;
+    k=0.1*b*b-4*a*c;
+    j=sqrt(k);
     if(k==0)
     {
         x=-1*b/(2.0*a);
@@ -19,8 +20,8 @@ vector<int> roots(int a,int b,int c)
     }
     else if(k>0)
     {
-       x=(-b+sqrt(k))/(2.0*a);
-       y=(-b-sqrt(k))/(2.0*a);
+       x=(-b+j)/(2.0*a);
+       y=(-b-j)/(2.0*a);
        vtr.push_back(x);
        vtr.push_back(y);
     }
